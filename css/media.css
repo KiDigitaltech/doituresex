@@ -1,0 +1,1454 @@
+/*
+Site Name: doityourSex
+CSS/Theme URL: https://doityoursex.com
+Description: Website Design and Development by AdultDC
+Author URL: https://adultdc.com/
+*/
+@media only screen and (max-width:1900px){
+.centerwrap{width:98%;}/*1560px*/
+nav{margin-left:40px;}
+nav li{margin-right:24px;}
+.iVideo{width:19.2%; margin-right:1%; margin-bottom:1%;}
+.iVideo h3{font-size:18px;}
+.videoView{font-size:12px; background-position:left 50%;}
+.iGallery{width:13.42857142857143%; margin-right:1%; margin-bottom:1%;}
+.iGallery:nth-child(8n){margin-right:1%;}
+.iGallery:nth-child(7n){margin-right:0px;}
+.iGallery:nth-child(33),.iGallery:nth-child(34),.iGallery:nth-child(35){display:block;}
+.caption h3{font-size:20px; line-height:26px;}
+.caption p{font-size:13px; line-height:16px;}
+.caption{padding:0 16px 12px;}
+.iVideos, .iGalleries{padding-top:25px;}
+footer{padding:25px 0;}
+
+/* Videos */
+.videoText{width:19.2%; margin-right:1%; height:215px;}
+.vText h2{font-size:32px; line-height:42px;}
+.vText{padding-top:16px;}
+.vText h3{padding-bottom:16px; margin-bottom:12px;}
+.bVideoText{width:19.2%; height:215px;}
+#bestVideos{width:80.8%;}
+#bestVideos .iVideo{width:100%;}
+#bestVideos .item{margin-right:15px;}
+#bestVideos .owl-buttons{top:106px;}
+.bVideoText .vText h2{padding-bottom:60px;}
+
+/* All Videos */
+.bodyArea{padding-top:25px;}
+
+/* Galleries */
+.allGalleries .iGallery:nth-child(49){display:block;}
+
+/* Author */
+/* Login */
+/* Register */
+/* Gallery Inner */
+.relatedG .iGallery:nth-child(15), .relatedG .iGallery:nth-child(16){display:none;}
+
+/* Video Inner */
+.videoMidwrap{width:98%;}
+.videoLeft{width:55%;}
+.videoRight{width:43%;}
+.rBanner{width:49%; margin-right:2%; margin-bottom:2%;}
+.rVideos .iVideo:nth-child(5n){margin-right:2%;}
+.rVideos .iVideo{width:49%; margin-right:2%; margin-bottom:2%;}
+
+
+/* Edit Profile */
+.mBodyRight{margin-bottom:70px;}
+
+/* My Profile */
+.mPComments{margin-bottom:70px;}
+
+/* Privacy */
+/* Delete Account */
+/* My Credits */
+/* Buy Credits */
+.joinArea{margin-left:185px;}
+.successpPage{height:640px;}
+/* Upload Video */
+/* Upload Gallery */
+/* My Friends */
+/* My Videos */
+/* My Galleries */
+/* Gallery Inner */
+
+
+
+}
+@media only screen and (max-width:1590px){
+.centerwrap{width:98%;}/*1250px*/
+.logo{margin-left:0px; width:220px; padding:15px 0;}
+nav{margin-left:20px; padding-top:20px;}
+nav li{font-size:15px; margin-right:16px;}
+.headerRight{padding-top:15px;}
+.user ul{padding:4px 0;}
+.user ul li{font-size:14px;}
+.user ul li a{line-height:30px;}
+.owl-prev{left:5px;}
+.owl-next{right:5px;}
+.caption h3{font-size:18px; line-height:22px;}
+.title h2{font-size:28px;}
+.iVideo{width:24.25%;}
+.iVideo:nth-child(5n){margin-right:1%;}
+.iVideo:nth-child(4n){margin-right:0px;}
+.iVideo:nth-child(29), .iVideo:nth-child(30){display:none;}
+.iVideo h3{font-size:17px;}
+.iGalleryPic, .iVideoPic{margin-bottom:5px;}
+.iGallery h3{font-size:14px;}
+.joinMBtn{padding-bottom:30px; padding-top:10px;}
+.videoDrop.active, .galleryDrop.active{display:block;}
+.fLogo{width:250px;}
+.flinks p span{padding:0 12px;}
+
+/* Videos */
+.videoText{width:24.25%; height:210px;}
+.bVideoText{width:24.25%; height:210px;}
+#bestVideos{width:75.75%;}
+.videosBlock .iVideo:nth-child(16){display:block;}
+.videosBlock{padding-top:32px; padding-bottom:12px;}
+.bestVideos{padding:28px 0;}
+.videosBlock .joinMBtn{padding-top:15px;}
+
+/* All Videos */
+.pagination{padding-top:20px; padding-bottom:50px;}
+.pagination a{font-size:16px;}
+.allvideos .iVideo:nth-child(29), .allvideos .iVideo:nth-child(30){display:block;}
+/**/
+
+/* Galleries */
+/* Author */
+/* Login */
+.loginBox{margin:200px auto;}
+
+/* Register */
+.registerArea{padding:120px 0;}
+
+/* Gallery Inner */
+.galleryInner h1{font-size:26px; padding-bottom:14px;}
+.bodyArea{padding-top:20px;}
+.gContent{padding-top:25px;}
+.relatedG{padding-bottom:15px; padding-top:50px;}
+
+/* Video Inner */
+.videoTitle{font-size:24px; padding-bottom:10px;}
+.videoLeft{width:60%;}
+.videoRight{width:38%;}
+
+
+
+/* My Profile */
+
+/* Edit Profile */
+
+/* Privacy */
+/* Delete Account */
+
+/* My Credits */
+/* Buy Credits */
+.buyCredit{padding:60px 0;}
+.currency{width:68px;}
+.uploadMN a{padding:0 20px;}
+.uploadMN a i{margin-right:6px; background-size:26px; width:26px;}
+.searchBlock{width:300px;}
+.joinArea{margin-left:50px; padding-top:20px;}
+.joinArea h2{font-size:24px; line-height:46px; padding-left:20px; padding-right:20px; margin-bottom:20px;}
+.pmethods img{height:46px;}
+.memberShipO a{height:auto;}
+.memberShipO a:after{content:''; display:block; clear:both;}
+.memberShipO{margin-left:20px; margin-right:20px;}
+.memberShipT{font-size:24px; padding-top:11px;}
+.memberShipT > span{font-size:14px;}
+.memberShipO label{height:76px;}
+.memberShipO label i{margin-top:25px;}
+.creditA{height:76px; font-size:42px; line-height:42px; padding-top:7px;}
+.creditA span{font-size:16px;}
+.useCredit{font-size:14px; line-height:22px; padding:5px 14px 8px; margin-left:20px; margin-right:20px; margin-bottom:20px;}
+.bestDeal{/*font-size:16px; line-height:36px; padding:0 15px;*/ margin-top:23px;}
+.payment label{/*height:72px;*/ margin:0 10px;}
+/*.payment label span{line-height:72px; font-size:22px;}*/
+.payment{padding-top:16px;}
+.payment label i{/*margin-top:22px; margin-right:8px;*/}
+.payment label img{/*margin-top:24px;*/}
+.getAccess input{font-size:30px; height:62px; padding:0 32px;}
+.getAccess{padding-bottom:40px;}
+
+/* Upload Video */
+/* Upload Gallery */
+/* Contact */
+/* My Friends */
+/* My Videos */
+/* My Galleries */
+/* Gallery Inner */
+
+
+
+}
+@media only screen and (max-width:1279px){
+.centerwrap{width:97%;}/*994px*/
+nav{display:none;}
+.logo{padding:15px 0 14px;}
+.notificationArea{top:53px;}
+.searchIcon{background-image:url(../images/search.png), linear-gradient(to right, #324b98, #e2007a, #324b98); background-size:auto auto, 200% auto; width:38px; height:38px; border:none; cursor:pointer; float:left; border-radius:20px; -webkit-border-radius:20px; background-position:center center, left center; background-repeat:no-repeat;}
+.responsiveSearch{display:none; position:fixed; top:68px; width:100%; background-color:#f5f5f5; padding:10px; left:0px; text-align:center; z-index:1;}
+.responsiveSearch.active{display:block;}
+.searchBlock{display:inline-block; vertical-align:top; float:none; width:340px; text-align:left;}
+.countries{display:inline-block; vertical-align:top; float:none; text-align:left;}
+.searchSubmit{display:inline-block; vertical-align:top; float:none;}
+.searchIcon{background:#f5f5f5 url(../images/searchBlack.png) no-repeat center center; border:1px solid #d0d0d0;}
+.user{display:none;}
+.mobileBtn{background-color:#f5f5f5; border:1px solid #d0d0d0; width:38px; height:38px; border-radius:50%; -webkit-border-radius:50%; display:block; padding-top:7px; cursor:pointer;}
+.menu{float:right; padding-top:15px; margin-left:10px;}
+.mobileBtn span{background-color:#000; height:2px; width:20px; margin:4px auto; display:block;}
+.mobileBtn.active .line1{transform:rotate(-45deg) translate(-4px, 5px);}
+.mobileBtn.active .line2{opacity:0;}
+.mobileBtn.active .line3{transform:rotate(45deg) translate(-4px, -4px);}
+.menu nav{position:absolute; right:0px; top:68px; padding:8px 15px; background-color:#f5f5f5; margin-left:0px; z-index:6; min-width:200px}
+.menu nav li{float:none; margin-right:0px;}
+.videoDrop, .galleryDrop{position:relative; left:auto; top:auto; width:auto; padding:10px; margin-top:4px; height:296px; overflow:auto; border-radius:0px; -webkit-border-radius:0px; margin-bottom:4px; box-shadow:0 3px 2px rgba(0,0,0,0.1); -webkit-box-shadow:0 3px 2px rgba(0,0,0,0.1);}
+.videoDrop ul, .galleryDrop ul{column-count:auto;}
+.videoDrop ul li a, .galleryDrop ul li a{padding-left:8px; padding-right:8px;}
+nav li i{width:28px; background-position:center center; float:right; position:absolute; right:0px; top:0px; padding-left:0px;}
+nav li a{display:block; padding-bottom:0px; color:#000;}
+nav li.mobile{display:block;}
+nav li a:after{display:none;}
+nav li:hover .videoDrop, nav li:hover .galleryDrop{display:inherit;}
+.iVideo{width:32.33%; margin-right:1.5%; margin-bottom:1.5%;}
+.iVideo:nth-child(4n), .iVideo:nth-child(5n){margin-right:1.5%;}
+.iVideo:nth-child(3n){margin-right:0px;}
+.iVideo:nth-child(29), .iVideo:nth-child(30){display:block;}
+/*.iVideo:nth-child(21){display:block;}*/
+.iGallery{width:18.8%; margin-right:1.5%; margin-bottom:1.5%;}
+.iGallery:nth-child(7n), .iGallery:nth-child(8n){margin-right:1.5%;}
+.iGallery:nth-child(5n){margin-right:0px;}
+.joinMBtn a{font-size:20px; min-width:476px; padding:12px 30px 12px;}
+.fLogo{width:220px;}
+.flinks p span{padding:0 8px;}
+footer{padding:20px 0;}
+.social a{margin-right:10px;}
+
+/* Videos */
+.videoText{width:32.33%; margin-right:1.5%; height:220px;}
+.videosBlock .iVideo:nth-child(16){display:none;}
+#bestVideos{width:67.66%;}
+.bVideoText{width:32.33%; height:220px;}
+.vText h2{font-size:28px; line-height:34px;}
+/*#bestVideos .owl-buttons{top:124px;}*/
+
+/* All Videos */
+.allvideos .iVideo:nth-child(40){display:none;}
+
+/* Galleries */
+.allGalleries .iGallery:nth-child(50){display:block;}
+
+/* Author */
+.midwrap{width:97%;}
+.authorArea{padding-top:32px;}
+.userVideos, .userPhotos{padding-top:22px;}
+
+/* Login */
+.loginBox{margin:150px auto;}
+
+/* Register */
+.registerArea{padding:80px 0px;}
+.joinFree{padding-left:30px;}
+.joinFree h2{font-size:28px; line-height:54px;}
+.joinFree h2 i{width:300px; height:54px; background-size:300px;}
+.joinFree h3{font-size:26px; padding-bottom:8px; padding-top:32px;}
+.joinFree ul li{font-size:15px; line-height:26px; background-size:18px; padding-left:26px;}
+.textblock span{margin-top:5px;}
+
+/* Gallery Inner */
+.galleryInner h1{font-size:24px; padding-bottom:10px;}
+.grid-item{width:25%;}
+.galleryInner{padding-bottom:25px;}
+.relatedG .iGallery:nth-child(15){display:block;}
+
+/* Video Inner */
+/*.videoLeft{width:calc(100% - 270px);}*/
+.videoAds{width:250px;}
+.videoTitle{font-size:22px;}
+.memberAlert, .memberOnly{width:460px;}
+.memberAlert h3, .memberOnly h3{font-size:20px; line-height:26px; padding-bottom:10px;}
+.memberAlert p{font-size:16px; padding-bottom:10px;}
+.mBtn{font-size:14px; line-height:36px; padding:0 24px;}
+.memberAlert hr{margin-top:16px; margin-bottom:12px;}
+
+.videoMidwrap{width:97%;}
+.videoLeft{width:70%;}
+.videoRight{width:28%;}
+.videoRight .title h2{font-size:20px; padding-right:8px; line-height:30px;}
+.videoRight a.viewMore{font-size:13px; line-height:26px; padding:0 12px;}
+.rBanner{width:100%; margin-bottom:12px;}
+.rBanner:last-child{margin-bottom:0px;}
+.rVideos .iVideo{width:100%; margin-right:0px; margin-bottom:12px;}
+.rVideos .iVideo:nth-child(7), .rVideos .iVideo:nth-child(8), .rVideos .iVideo:nth-child(9){display:none;}
+
+/* Edit Profile */
+.profileTop{padding-top:32px;}
+.leftLinks{width:25%;}
+.mBodyRight{width:73.5%; margin-bottom:50px;}
+.leftLinks ul li a{padding:0 18px; line-height:42px;}
+.mTitle h2{font-size:28px;}
+.leftForm{width:49%; margin-bottom:2%;}
+.rightForm{width:49%; margin-bottom:2%;}
+.bigBox textarea{height:130px;}
+.memberBody{padding-top:20px;}
+.profileP, .fullForm{margin-bottom:2%;}
+.editBlock{width:550px;}
+.editBlock h3{font-size:28px; line-height:34px;}
+
+/* My Profile */
+.mBodyLeft{width:25%;}
+.memberMenu li{margin-right:30px;}
+.mFPic{width:30.66%; margin-right:4%; margin-bottom:4%;}
+.mFPicH{width:100%; height:auto;}
+.viewComment li{font-size:14px;}
+.status, .uFVideo, .uFGallery, .uEVerify, .pInfoA{margin-bottom:12px;}
+.uFVideo{padding-left:15px; width:100%;}
+.uFGallery{padding-left:15px; width:100%;}
+.uEVerify{padding-left:15px;}
+.mPComments{margin-bottom:50px;}
+a.editP{opacity:1;}
+.statusBox{padding-left:15px;}
+.uFVideo a, .uFGallery a{display:block;}
+
+/* Privacy */
+.reqestOp label{width:49%;}
+.reqestOp{padding-top:3px;}
+
+/* Delete Account */
+.deleteAPopB{width:550px;}
+.deleteAPopB h3{font-size:28px; line-height:34px;}
+.yMind{font-size:20px;}
+.dCredit{font-size:44px;}
+.inAcc{font-size:18px;}
+
+/* My Credits */
+.yourCredit h3{font-size:28px;}
+.cMembership p{font-size:16px; line-height:38px;}
+.renewMM{line-height:34px;}
+.eCreditBox h3{font-size:28px;}
+.eCreditBox ul li, .totalL{font-size:18px; line-height:46px}
+.countR, .totalR{font-size:22px; line-height:46px;}
+.countR span, .totalR span{font-size:15px; line-height:42px;}
+
+/* Buy Credits */
+.joinArea{margin-left:20px; width:696px;}
+.buyCredit{padding:40px 0;}
+.joinArea h2{font-size:20px; line-height:40px;}
+.memberShipO label i{width:24px; height:24px; margin-left:15px; margin-right:10px; margin-top:23px;}
+.memberShipO label{height:68px;}
+.memberShipT{padding-top:10px; font-size:22px; line-height:28px;}
+.memberShipT > span{font-size:13px;}
+.creditA{height:68px; font-size:36px; line-height:36px; min-width:128px}
+.creditA span{font-size:13px; line-height:16px;}
+.bestDeal{font-size:12px; line-height:26px; padding:0 10px; margin-top:21px; margin-right:8px;}
+.useCredit{font-size:13px; line-height:18px;}
+/*.payment label span{font-size:20px; line-height:62px;}*/
+.payment label i{width:24px; height:24px; /*margin-top:18px;*/ margin-left:18px;}
+.payment label{height:auto; padding-top:5px; padding-bottom:5px; margin:0 5px;}
+.payment label img.pLogo{max-height:30px;}
+.payment label img{/*margin-top:18px;*/}
+.getAccess{padding-bottom:30px; padding-top:20px;}
+body .backgroundTransition .image-bottom, body .backgroundTransition .image-top{background-position:20% top;}
+.memberShipO a{padding-left:18px;}
+.registerd{font-size:15px;}
+.pmethods img{height:40px;}
+.successBlock{max-width:640px; font-size:15px;}
+
+
+/* Upload Video */
+.subHeader h2{font-size:26px; line-height:62px;}
+.pUnder{font-size:15px;}
+.uploadHm{font-size:15px; line-height:26px;}
+.videoFeatures{padding-top:30px; padding-bottom:38px;}
+.uploadProcess{width:500px;}
+.makeM, .partTwo{padding-bottom:60px;}
+.searchCate, .setting{width:380px;}
+.lastInfo p{font-size:13px; width:calc(100% - 180px); line-height:18px;}
+.sendReview{min-width:165px;}
+.lastInfo{padding-top:24px;}
+
+/* Upload Gallery */
+.uploadHPic{width:18.4%; margin-right:2%; margin-bottom:2%;}
+.uploadHPics{padding-top:40px; padding-bottom:20px;}
+.galleryPart{padding-bottom:60px;}
+
+/* Contact */
+.contactArea{padding:70px 0;}
+
+/* My Friends */
+.friendBlock{width:32%; margin-right:2%; margin-bottom:2.5%;}
+.friendPic{width:74px;}
+.frindInfo{margin-left:18px; width:calc(100% - 92px);}
+.frindInfo h4{font-size:20px;}
+.frindInfo p span{padding:0 10px;}
+
+/* My Videos */
+.myvideo{width:49%; margin-right:2%; margin-bottom:3%;}
+.myVideoPic{width:250px;}
+.myVideoInfo{margin-left:15px; width:calc(100% - 265px);}
+.privacy, .allowDownload{max-width:190px;}
+.privacy label, .allowDownload label{margin-right:0px;}
+.added{line-height:20px;}
+
+/* My Galleries */
+.myGallery{width:32%; margin-right:2%; margin-bottom:3%;}
+.mygallerInfo h3{padding-bottom:6px;}
+.galleryStatus .viewMV{margin-right:0px; margin-bottom:5px;}
+.galleryStatus a.onlineV{float:left; clear:left;}
+.galleryStatus a.suspendedV{float:left;}
+.mygallerInfo .privacy{padding-top:0px;}
+.mygallerInfo .privacySelect{clear:left;}
+
+/* Gallery Inner */
+/* New Popup */
+/* Terms */
+.resp-tabs-list li{font-size:14px; padding:12px 20px 12px;}
+.textContent h2{font-size:24px;}
+
+
+}
+@media only screen and (max-width:1023px){
+.centerwrap{width:96%;}/*748px*/
+.logo{width:200px; padding:14px 0 12px;}
+.headerRight{padding-top:12px;}
+.menu{padding-top:12px;}
+.caption h3{font-size:16px; line-height:20px;}
+.caption{padding:0 10px 8px;}
+.owl-prev{left:0px; background-size:14px;}
+.owl-next{right:0px; background-size:14px;}
+.responsiveSearch, .menu nav{top:62px;}
+.title h2{font-size:24px; padding-right:12px; line-height:34px;}
+a.viewMore{font-size:13px; line-height:28px; padding:0 15px;}
+.iVideos, .iGalleries{padding-top:20px;}
+.title{margin-bottom:10px;}
+.iVideo h3{font-size:16px;}
+i.like{right:6px; bottom:6px;}
+.iGallery{width:23.875%;}
+.iGallery:nth-child(5n){margin-right:1.5%;}
+.iGallery:nth-child(4n){margin-right:0px;}
+.iGallery:nth-child(33), .iGallery:nth-child(34), .iGallery:nth-child(35){display:none;}
+.fLogo{position:relative; top:auto; transform:none; -webkit-transform:none; margin:auto;}
+.social{position:relative; top:auto; transform:none; -webkit-transform:none; margin:auto; text-align:center;}
+.fRight{float:none; display:block;}
+.shareI{border:none; padding-left:0px; margin-left:0px; padding-top:2px;}
+.shareIcon{margin:auto;}
+footer{padding:16px 0;}
+.flinks{padding:10px 0; text-align:center;}
+.social a{float:none; display:inline-block; margin:0 4px;}
+.videoDrop, .galleryDrop{height:154px;}
+.indexAPopB{width:550px;}
+.indexAPopB label{font-size:14px;}
+.indexAPopB textarea{font-size:14px; padding:8px 14px;}
+.sendEmail{font-size:15px; height:36px; padding:0 24px;}
+
+/* Videos */
+.videoText{height:176px;}
+.vText{padding-top:10px;}
+.vText h2{font-size:24px; line-height:28px;}
+.vText h3{font-size:13px; padding-bottom:12px; margin-bottom:8px;}
+.vText p{font-size:14px;}
+.vText p a{background-size:5px;}
+.videosBlock{padding-top:26px; padding-bottom:8px;}
+.bestVideos{padding:24px 0px;}
+.bVideoText{height:176px;}
+#bestVideos .owl-prev{width:30px; height:30px; background-size:60px;}
+#bestVideos .owl-next{width:30px; height:30px; background-size:60px;}
+#bestVideos .owl-buttons{width:74px; right:-72px; top:75px;}
+
+/* All Videos */
+.bodyArea{padding-top:20px;}
+.twoDrops .selectric .label{font-size:13px; line-height:30px;}
+.twoDrops .selectric-items ul, .twoDrops .selectric-items li{font-size:13px; line-height:12px;}
+.twoDrops .selectric .button{height:30px;}
+.categories{width:150px;}
+.sortby{width:150px;}
+
+/* Galleries */
+.allGalleries .iGallery:nth-child(49), .allGalleries .iGallery:nth-child(50){display:none;}
+
+/* Author */
+.midwrap{width:96%;}
+.userPic{width:80px; height:80px; background-size:80px;}
+.userND{padding-left:16px;}
+.userND h1{font-size:32px; line-height:36px;}
+a.addUser{height:36px; width:36px; background-size:20px; margin-left:14px;}
+.userContent h3{font-size:22px; padding-bottom:5px;}
+.aboutInfo li{line-height:22px;}
+.userContent p{line-height:22px;}
+
+/* Login */
+.loginBox{margin:220px auto; padding:20px;}
+.textblock{margin-bottom:14px;}
+
+/* Register */
+.registerArea{padding:50px 0;}
+.joinFree{width:calc(100% - 52%); padding:3%;}
+.registerBox{width:48%; padding:20px;}
+.joinFree h2{line-height:40px;}
+.joinFree h2 i{display:block; margin:0px;}
+
+/* Gallery Inner */
+.galleryInner h1{font-size:22px;}
+.galleryInner{padding-bottom:20px;}
+.relatedG .iGallery:nth-child(16){display:block;}
+.GVContent{padding-bottom:30px;}
+a.shareLink{height:32px; width:32px; border-width:1px; background-size:15px;}
+a.downloadLink{height:32px; width:32px; border-width:1px; background-size:15px;}
+a.addUserI{height:32px; width:32px; border-width:1px; background-size:18px;}
+a.favorite{height:32px; width:32px; border-width:1px; background-size:15px;}
+a.likeVG{height:32px; width:32px; border-width:1px; background-size:15px;}
+a.dislikeVG{height:32px; width:32px; border-width:1px; background-size:15px;}
+.likeDislike p{font-size:14px; line-height:32px; padding:0 10px; min-width:inherit;}
+.share, .download, a.addUserI{margin-right:6px;}
+.likeDislike{margin-left:10px;}
+.gCOInfo{line-height:32px; margin-bottom:10px;}
+a.report{background-size:14px; padding-left:22px;}
+.totalPics{padding-left:20px;}
+.allComment h3{font-size:15px; line-height:35px;}
+.gRight{padding-top:4px;}
+.relatedG{padding-top:30px;}
+
+/* Video Inner */
+/*.videoLeft{width:calc(100% - 170px);}*/
+.videoAds{width:160px;}
+.videoTitle{font-size:20px;}
+.memberAlert, .memberOnly{width:380px; padding:15px;}
+.memberAlert h3, .memberOnly h3{font-size:18px; line-height:24px; padding-bottom:6px;}
+.memberAlert p{font-size:14px;}
+.mBtn{font-size:13px; padding:0 18px; line-height:32px;}
+.memberAlert:after, .memberOnly:after{background-size:70px; width:70px; height:74px;}
+.memberAlert:before, .memberOnly:before{left:12px; width:32px; background-size:32px; height:32px;}
+.gLeft{width:calc(100% - 310px);}
+.videoMidwrap{width:96%;}
+.videoRight .title h2{font-size:16px; padding-right:5px; line-height:24px;}
+.videoRight a.viewMore{font-size:10px; line-height:24px; padding:0 10px; border-width:1px;}
+
+
+
+/* Edit Profile */
+.myProfileN h1{font-size:26px; line-height:34px;}
+a.editProfile{margin-left:10px; line-height:30px; font-size:13px;}
+.myProfileN{padding-left:16px;}
+.profileT{margin-bottom:20px;}
+.memberMenu li{margin-right:14px; font-size:13px; letter-spacing:normal;}
+.mTitle h2{font-size:24px;}
+.mBodyRight{margin-bottom:40px;}
+.bigBox{padding:15px;}
+.profileBox{padding:0 14px; height:40px; font-size:14px;}
+.mBodyRight .selectric .label{line-height:38px; font-size:14px;}
+.mBodyRight label.name{font-size:14px;}
+.mBodyRight .selectric{padding-left:14px;}
+.mBodyRight .selectric .button{height:38px; width:24px;}
+.profilePicE{width:80px; height:80px;}
+.uploadP{margin-left:15px; max-width:calc(100% - 100px);}
+.uploadP span{font-size:13px; line-height:28px; padding:0 14px;}
+.bigBox textarea{font-size:14px; padding:8px 14px; height:110px;}
+.submitBtn{font-size:15px; min-width:156px; height:36px;}
+.formFL{padding-top:14px;}
+.leftLinks ul li{font-size:14px;}
+.leftLinks ul li a{line-height:38px;}
+.viewPass{height:39px;}
+.editBlock{width:500px;}
+.editBlock h3{font-size:24px; line-height:30px;}
+.editBlock p{font-size:14px; }
+
+/* My Profile */
+.profilePic i{width:16px; height:16px;}
+.viewComment li{font-size:13px; margin-bottom:10px;}
+.statusBox{height:42px; font-size:14px;}
+.uFVideo a, .uFGallery a, .uEVerify p{font-size:14px;}
+.uFVideo, .uFGallery, .uEVerify{line-height:42px;}
+.pInfoA{padding:12px 15px;}
+.mFriends h3{font-size:16px; padding-bottom:8px;}
+.viewComment{padding-bottom:26px;}
+.aboutMe p{padding-bottom:14px;}
+a.allF{padding:0 20px;}
+.mPComments{margin-bottom:40px; padding:12px 15px;}
+.cUPic, .cUPic a, .nCPic a{width:50px; height:50px; background-size:50px}
+.cUComment, .nCMessage{width:calc(100% - 65px);}
+.leaveComment{font-size:13px; padding:0 14px; height:30px;}
+.cancleBtn{font-size:13px; padding:0 14px; line-height:26px; margin-right:5px;}
+.cUComment textarea{font-size:14px; padding:6px 12px; margin-bottom:6px;}
+.replyComment, .replyCBox{padding-left:65px;}
+.privatePro{height: 34px; margin-left: 18px;}
+
+/* Notification Start */
+.notificationArea{top:50px;}
+.notiTitle{padding:12px 15px;}
+.notiTitle h3{font-size:22px;}
+a.clearAll{margin-top:4px;}
+.notiContent li{padding:10px 50px 10px 15px;}
+.notiContent{max-height:262px;}
+/* Notification Close */
+
+/* Privacy */
+.reqestOp label{margin-bottom:6px;}
+
+/* Delete Account */
+.deleteAPopB{width:500px;}
+.deleteAPopB:before{width:40px; height:60px; background-size:40px;}
+.deleteAPopB:after{width:90px; height:100px; background-size:90px;}
+.deleteAPopB h3{font-size:24px; line-height:30px;}
+.deleteAPopB p{font-size:14px; }
+.deleteAPopB .twoBtns{padding-top:20px;}
+.changeM{font-size:15px; height:36px; min-width:100%;}
+.deleteAccB{font-size:15px; height:36px; min-width:100%;}
+.yMind{font-size:18px;}
+.dCredit{font-size:40px;}
+.inAcc{font-size:16px;}
+.saveBtn{font-size:15px; height:36px; min-width:100px; margin:0 5px;}
+.cancel{font-size:15px; height:36px; min-width:100px; margin:0 5px;}
+
+/* My Credits */
+.yourCredit{padding-bottom:20px;}
+.yourCredit h3{font-size:24px; padding-bottom:8px;}
+.totalC{height:66px;}
+.totalC span{font-size:50px;}
+.cMembership{padding:20px;}
+.cMembership p{line-height:normal; padding-bottom:10px; padding-right:0px;}
+.midBtn a{font-size:15px; line-height:36px; min-width:160px;}
+.earnCredits{padding:20px 20px 8px;}
+.earnCredits p br{display:none;}
+.eCreditBox h3{font-size:24px; padding-bottom:10px;}
+.eCreditBox ul li{padding-left:14px; padding-right:14px;}
+.eCreditBox ul li, .totalL{font-size:16px; line-height:38px;}
+.totalL{padding-left:14px;}
+.totalR{padding-right:14px;}
+.countR, .totalR{line-height:38px; font-size:18px;}
+.countR span, .totalR span{font-size:13px; line-height:38px;}
+.eCreditBox ul{padding-bottom:14px;}
+.reset{padding-top:20px; padding-bottom:8px;}
+.reset a{font-size:16px; line-height:34px; padding:0 24px;}
+
+/* Buy Credits */
+.joinArea{margin:auto;}
+body .backgroundTransition .image-bottom, body .backgroundTransition .image-top{background-position:center top;}
+.getAccess input{font-size:28px; height:56px;}
+.registerd{font-size:14px;}
+.successpPage{min-height:750px;}
+
+/* Upload Video */
+.subHeader h2{font-size:24px; line-height:58px;}
+.blueBox h3{font-size:24px;}
+.blueBox{padding:15px;}
+.uploadArea{padding-top:20px;}
+.pUnder{font-size:14px;}
+.uploadI{font-size:24px; background-size:50px; padding-top:54px; padding-bottom:22px;}
+.uploadI span{font-size:13px;}
+.uploadVG{font-size:14px; line-height:36px; padding:0 20px;}
+.supported{font-size:13px; padding-top:10px;}
+.uploadHm{font-size:14px; line-height:22px; padding-top:10px;}
+.uploadContent{padding:19px 16px 20px 16px;}
+.videoF{padding-left:20px; padding-right:20px; padding-top:15px; min-height:inherit;}
+.videoF i{margin-bottom:10px;}
+.videoF p{font-size:13px;}
+.midL{width:240px;}
+.makeM p{font-size:13px;}
+.makeM, .partTwo{padding-bottom:40px;}
+.vFileName{font-size:18px;}
+.deleteV{margin-left:15px;}
+.bigVBox h2{font-size:16px;}
+.addbox input, .seachbox{font-size:14px; height:40px;}
+.description textarea{font-size:14px; height:80px;}
+.chooseCate ul li label{font-size:14px; /*padding-left:28px;*/}
+.addbox span, .description span{font-size:14px; line-height:40px;}
+.addRelevant ul li{font-size:13px; line-height:28px;}
+.addRelevant ul li i{width:28px; height:28px;}
+.searchCate, .setting{width:280px;}
+.searchI{height:38px;}
+.setting .selectric .label{font-size:14px; line-height:38px;}
+.setting .selectric .button{height:38px;}
+.chooseP p{line-height:40px; font-size:13px; padding-left:12px;}
+.sendReview{min-width:155px; font-size:15px; height:36px;}
+.lastInfo p{width:calc(100% - 170px);}
+
+/* Upload Gallery */
+.uploadHPics{padding-top:30px; padding-bottom:15px; border-radius:5px; -webkit-border-radius:5px;}
+.uploadHPic i{width:26px; height:26px; background-size:10px; right:6px; top:6px;}
+.selectedP:after{background-size:42px;}
+.galleryPart{padding-bottom:40px;}
+
+/* Contact */
+.contactArea{padding:120px 0;}
+.contactBox{width:540px;}
+.contactForm textarea{padding:10px 14px; font-size:14px;}
+
+/* My Friends */
+.friendPic{width:60px;}
+.frindInfo{margin-left:14px; width:calc(100% - 74px);}
+.frindInfo h4{font-size:17px; padding-bottom:3px;}
+.frindInfo p{font-size:13px;}
+
+/* My Videos */
+.innerMenu li{font-size:13px;}
+.innerMenu li a{line-height:32px; padding:0 12px;}
+.innerMenu li:first-child a.active{padding-left:12px;}
+.myVideoPic{width:180px;}
+.edit{font-size:12px;}
+.myVideoInfo{width:calc(100% - 190px); margin-left:10px; margin-top:-2px;}
+.myVideoInfo h3{font-size:18px; padding-bottom:2px;}
+.viewMV{padding-left:21px; margin-right:0px; margin-bottom:5px;}
+a.onlineV{padding:0 5px;}
+a.suspendedV{padding:0 5px;}
+.privacySelect{width:114px;}
+.privacy, .allowDownload{max-width:174px;}
+a.onlineV{float:left; clear:left;}
+a.suspendedV{float:left;}
+.added{padding-bottom:2px;}
+.viewMV{margin-bottom:0px;}
+
+/* My Galleries */
+.myGallery{width:49%;}
+.myGallery:nth-child(3n){margin-right:2%;}
+.myGallery:nth-child(2n){margin-right:0px;}
+.noContent p{font-size:14px;}
+.noContent .joinMBtn a span{font-size:15px;}
+
+/* Gallery Inner */
+/* Delete Video pop up*/
+.twoBtns{padding-top:20px;}
+
+/* New Popup */
+.infoPopB{width:550px;}
+.infoPopB p{font-size:16px; line-height:22px; padding-bottom:10px;}
+.infoPopB ul li{font-size:15px; line-height:24px;}
+.infoPopB ul{padding:10px;}
+.vidGallery a{font-size:15px; padding:0 24px; line-height:36px;}
+
+/* Terms */
+.textContent h2{font-size:22px;}
+.textContent > h2{color:#fff; font-size:16px; background-color:#324b98;}
+.resp-tab-content{padding:16px 18px;}
+.textContent p{font-size:14px; line-height:22px;}
+.textContent h3{font-size:18px;}
+.textContent ul li{font-size:14px; line-height:22px;}
+.textContent h4{font-size:16px;}
+
+.address{text-align:center;}
+}
+@media only screen and (max-width:767px){
+/*.centerwrap{width:460px;}*/
+.uploadMN{display:none;}
+.logo{width:200px; padding:13px 0;}
+nav li.mobileU{display:block;}
+.iVideo{width:49%; margin-right:2%; margin-bottom:2%;}
+.iVideo:nth-child(3n), .iVideo:nth-child(4n), .iVideo:nth-child(5n){margin-right:2%;}
+.iVideo:nth-child(2n){margin-right:0px;}
+/*.iVideo:nth-child(21){display:none;}*/
+.iGallery{width:32%; margin-right:2%; margin-bottom:2%;}
+.iGallery:nth-child(4n), .iGallery:nth-child(5n), .iGallery:nth-child(7n), .iGallery:nth-child(8n){margin-right:2%;}
+.iGallery:nth-child(3n){margin-right:0px;}
+.iGallery:nth-child(31), .iGallery:nth-child(32){display:none;}
+.indexAPopB{padding:34px 22px 22px;}
+.countries .selectric-items{left:auto; right:0px;}
+
+
+/* Videos */
+.videoText{width:49%; margin-right:2%; height:190px;}
+#bestVideos{width:51%;}
+.bVideoText{width:49%; height:190px;}
+.videosBlock .iVideo:nth-child(16){display:block;}
+#bestVideos .item{margin-right:12px;}
+#bestVideos .owl-buttons{top:80px;}
+
+/* All Videos */
+.bodyArea .title:before{display:none;}
+.twoDrops{float:left; padding-top:5px; padding-bottom:5px; clear:left;}
+.allvideos .iVideo:nth-child(40){display:block;}
+.pagination{padding-bottom:40px; padding-top:15px;}
+
+/* Galleries */
+.allGalleries .iGallery:nth-child(31), .allGalleries .iGallery:nth-child(32){display:block;}
+
+/* Author */
+.authorArea{padding-top:25px; padding-bottom:10px;}
+.userVideos, .userPhotos{padding-top:18px;}
+.userND{width:calc(100% - 80px);}
+.userND h1{max-width:calc(100% - 50px);}
+
+/* Login */
+.loginBox{margin:80px auto; width:420px;}
+.image-top, .image-bottom{display:none!important;}
+.backgroundTransition{background:url(../images/loginMbg.jpg) no-repeat center top / cover!important;}
+
+/* Register */
+.joinFree{width:100%; margin-bottom:20px; padding:20px;}
+.registerBox{width:100%;}
+.registerArea{display:block; padding:30px 30px 40px;}
+.joinFree h2 i{display:inline-block; vertical-align:top; margin:0 12px; width:240px; background-size:240px; height:42px;}
+.joinFree h2{line-height:42px;}
+.joinFree h3{padding-top:22px;}
+
+/* Gallery Inner */
+.grid-item{width:33.33%;}
+.galleryInner h1{font-size:20px; padding-bottom:8px;}
+.galleryInner h1 span{font-size:16px;}
+.userP{width:32px; height:32px; background-size:32px;}
+.gLeft h3{font-size:14px; padding-left:10px;}
+.gRight{padding-top:0px;}
+.gCTop{padding-bottom:15px;}
+.GVContent p{font-size:13px; line-height:20px;}
+.GVContent{padding-bottom:25px;}
+.categoriesGV{padding-bottom:6px;}
+.categoriesGV p{line-height:18px; padding-top:2px;}
+.relatedG .iGallery:nth-child(16){display:none;}
+
+/* Video Inner */
+.videoLeft{width:100%; padding-bottom:40px;}
+.videoAds{display:none;}
+.videoTitle{font-size:18px; padding-bottom:8px;}
+
+.videoMidwrap{padding-bottom:20px;}
+.videoRight{width:100%;}
+.videoRight .title h2{font-size:24px; line-height:30px;}
+.videoRight a.viewMore{font-size:13px; line-height:28px; padding:0 15px;}
+.rBanner{width:49%; margin-right:2%;}
+.rVideos .iVideo{width:49%; margin-right:2%;}
+.rVideos .iVideo:nth-child(2n){margin-right:0px;}
+.rVideos .iVideo:nth-child(7), .rVideos .iVideo:nth-child(8), .rVideos .iVideo:nth-child(9){display:block;}
+
+
+/* Edit Profile */
+.profileTop{padding-top:25px;}
+.memberMenu{width:746px; overflow:auto; -webkit-overflow-scrolling:touch;}
+.memberMenu li{margin-right:15px;}
+.mMenu{overflow:auto;}
+.leftLinks{width:28%;}
+.leftLinks ul li{font-size:13px;}
+.leftLinks ul li a{line-height:32px; padding:0 10px;}
+.mBodyRight{width:70%;}
+.mTitle h2{font-size:22px;}
+.leftForm{width:100%;}
+.rightForm{width:100%;}
+.fullForm .leftForm{margin-bottom:2%;}
+.formFL{margin-top:14px; padding-top:10px;}
+.editBlock{padding:34px 24px 24px;}
+
+/* My Profile */
+.mobileU ul{display:none; padding:10px; background-color:#fff; box-shadow:0 7px 5px rgba(0,0,0,0.2); -webkit-box-shadow:0 7px 5px rgba(0,0,0,0.2);}
+.mobileU ul.active{display:block;}
+.mobileU ul a{padding-left:8px; padding-right:8px;}
+.mBodyLeft{width:28%;}
+.mFPic{width:47%; margin-right:6%; margin-bottom:6%;}
+.mFPic:nth-child(3n){margin-right:6%;}
+.mFPic:nth-child(2n){margin-right:0px;}
+.viewComment li i{margin-right:6px;}
+.uFVideo a, .uFGallery a, .uEVerify p{font-size:13px;}
+a.editP{top:5px; right:5px;}
+.personalI{padding-bottom:10px; margin-bottom:12px;}
+.cUComment, .nCMessage{margin-left:10px; width:calc(100% - 60px);}
+.allNComments{padding-top:20px;}
+.commentRow{margin-bottom:12px;}
+.replyComment, .replyCBox{padding-left:60px;}
+.mFPic:nth-child(10){display:block;}
+.status:after{right:10px;}
+
+/* Notification Start */
+.notificationArea{width:350px;}
+.notiTitle h3{font-size:20px;}
+.notiContent li{font-size:13px; line-height:18px;}
+a.clearAll{font-size:13px; margin-top:4px;}
+/* Notification Close */
+
+/* Privacy */
+/* Delete Account */
+.deleteAPopB{padding:34px 24px 24px;}
+
+/* My Credits */
+.yourCredit h3{font-size:22px;}
+.earnCredits p{font-size:15px; line-height:22px;}
+.cMembership p{font-size:15px;}
+.midBtn{padding-top:12px;}
+.eCreditBox h3{font-size:22px; padding-bottom:6px;}
+.eCreditBox ul li, .totalL{font-size:16px; line-height:normal; padding-top:7px;}
+.countR span, .totalR span{line-height:normal;}
+.countR, .totalR{line-height:normal; float:none; padding-bottom:6px; font-size:16px; clear:both;}
+.countR span, .totalR span{vertical-align:middle;}
+.totalR{padding-left:14px;}
+.reset a{font-size:14px; line-height:28px; padding:0 16px;}
+.reset{padding-top:14px;}
+
+/* Buy Credits */
+.joinArea{width:98%; padding-top:14px;}
+.joinArea h2{font-size:16px; line-height:36px;}
+.memberShipO label:after{display:block; content:''; clear:both;}
+.memberShipO label{height:auto;}
+.memberShipT strong{display:block;}
+.memberShipT{font-size:18px; line-height:24px; padding-top:8px; padding-bottom:10px;}
+.memberShipT > span{line-height:16px;}
+.memberShipO{margin-left:14px; margin-right:14px;}
+.joinArea h2{padding-left:14px; padding-right:14px; margin-bottom:14px;}
+.memberShipO label i{margin-top:25px;}
+.creditA{height:74px; padding-top:14px; font-size:30px; line-height:30px; min-width:108px;}
+.useCredit{margin-left:14px; margin-right:14px; margin-bottom:14px;}
+.bestDeal{font-size:10px; line-height:26px; padding:0 10px; margin-top:24px;}
+.getAccess input{font-size:24px; height:56px;}
+.payment label{margin:0 6px;}
+.payment label span.paymentTitle{font-size:14px;}
+.pmethods img{height:36px;}
+.successpPage{min-height:500px;}
+
+/* Upload Video */
+.subHeader h2{font-size:22px; line-height:50px;}
+.blueBox h3{font-size:22px;}
+.pUnder{font-size:13px; padding-bottom:10px;}
+.uploadContent{border-width:2px;}
+.uploadHm{font-size:13px; line-height:20px;}
+.videoF{padding-top:10px;}
+.videoF p{padding-bottom:10px;}
+.videoFeatures{padding-top:20px; padding-bottom:28px;}
+.midL{width:200px;}
+.videoFrame{background-size:50px; padding-left:65px; background-position:left top; margin-bottom:26px;}
+.uploadProcess{margin-top:4px; width:100%;}
+.deleteV{margin-left:0px; margin-top:10px; padding:0 15px; line-height:32px;}
+.bigVBox{padding:16px 15px;}
+.chooseCate ul{column-count:3;}
+.lastInfo p{width:100%; padding-top:10px;}
+.chooseP p{line-height:normal; padding-left:0px; clear:left; font-size:14px; padding-top:5px;}
+.sendReview{min-width:166px;}
+.chooseP{padding-bottom:20px;}
+.lastInfo{padding-top:20px;}
+
+/* Upload Gallery */
+.selectedP:after{background-size:26px;}
+.uploadHPic i{width:22px; height:22px; background-size:8px; right:3px; top:3px;}
+.uploadHPic{border-radius:4px; -webkit-border-radius:4px;}
+.uploadHPics{padding-top:20px; padding-bottom:10px;}
+
+/* Contact */
+.contactArea{padding:40px 0;}
+.contactBox h2{font-size:24px;}
+.contactBox{width:90%;}
+.contactForm textarea{height:120px;}
+.leftCForm{margin-bottom:3%;}
+.rightCForm{margin-bottom:3%;}
+.fullCForm{margin-bottom:3%;}
+
+/* My Friends */
+.friendBlock{width:49%; margin-bottom:3%;}
+.friendBlock:nth-child(3n){margin-right:2%;}
+.friendBlock:nth-child(2n){margin-right:0px;}
+.frindInfo h4{font-size:18px;}
+
+/* My Videos */
+.myvideo{width:100%; margin-right:0px;}
+.myVideoPic{width:275px;}
+.myVideoInfo{width:calc(100% - 290px); margin-left:15px;}
+.viewMV{line-height:22px; margin-right:10px;}
+a.onlineV{clear:none;}
+.privacy, .allowDownload{max-width:175px; width:80%;}
+.added{line-height:22px; padding-top:0px;}
+.myVideoInfo h3{padding-bottom:5px;}
+.deletePopB h3{font-size:24px; line-height:24px;}
+.creditD{font-size:14px; padding-bottom:12px;}
+.videoBPic{width:160px;}
+.videoBInfo{margin-left:14px; width:calc(100% - 174px);}
+.videoBInfo h4{font-size:18px; padding-bottom:5px;}
+.videoBInfo .viewMV{line-height:18px;}
+.deletePopB .twoBtns{padding-top:25px;}
+
+/* My Galleries */
+.mygalleryPic{width:120px;}
+.mygallerInfo{width:calc(100% - 130px); margin-left:10px;}
+.mygallerInfo h3{font-size:18px;}
+.privacy label, .allowDownload label{line-height:normal; padding-bottom:5px;}
+.mygallerInfo .added{padding-top:5px;}
+.deletePopB{width:100%;}
+.galleryBInfo h4{font-size:18px; padding-bottom:8px;}
+.noContent p{padding-bottom:20px;}
+.noContent .joinMBtn a{padding:11px 24px 12px; min-width:440px;}
+
+/* Warning Popup */
+.warningLogo{width:240px; padding-bottom:14px;}
+.warningPopB{padding:25px 23px;}
+.warningPopB h1{font-size:22px;}
+.warningPopB p{font-size:14px; line-height:22px;}
+.wtwoBtn{padding-top:10px;}
+.enter{font-size:14px; line-height:36px;}
+.exit{font-size:14px; line-height:36px;}
+
+/* New Popup */
+.infoPopB{padding:34px 22px 24px;}
+.infoPopB p{font-size:15px; line-height:20px;}
+.infoPopB hr{margin-top:16px; margin-bottom:8px;}
+
+/* CSS Changes */
+.noContent{min-height:450px;}
+
+/* Terms */
+.textpage{padding:20px 0 40px;}
+
+
+
+}
+@media only screen and (max-width:567px){
+.iVideo p{width:100%;}
+.iVideo .videoView{float:left; margin-top:3px;}
+.joinMBtn a{min-width:100%; padding:10px 0px 12px;}
+.iGallery p span{display:none;}
+.iGallery p a{display:block;}
+.flinks p{font-size:13px;}
+.countries{margin:0 2px;}
+.searchBlock{width:270px;}
+.indexASpace{padding:20px 26px;}
+.indexAPopB h3{font-size:16px; line-height:22px;}
+
+
+
+
+/* Videos */
+/* All Videos */
+/* Galleries */
+/* Author */
+/* Login */
+.loginBox{margin:40px auto; width:96%;}
+.subBtn{padding-top:14px; padding-bottom:10px;}
+
+/* Register */
+.registerArea{padding:20px 2% 20px;}
+
+/* Gallery Inner */
+.gRight{float:left; clear:left; padding-top:15px;}
+.gContent{padding-top:20px;}
+.nosignup{font-size:13px;}
+.gLeft{width:100%;}
+.date, .viewGV{margin-right:12px;}
+.galleryInner h1 span{font-size:14px;}
+
+
+/* Video Inner */
+.memberAlert, .memberOnly{width:350px; padding:10px;}
+.memberAlert h3, .memberOnly h3{font-size:16px; padding-bottom:5px; line-height:20px;}
+.memberAlert p{font-size:13px; padding-bottom:8px;}
+.mBtn{font-size:12px; line-height:30px;}
+.memberAlert hr{margin-top:10px; margin-bottom:8px;}
+.memberAlert:after, .memberOnly:after{background-size:50px; width:50px; height:54px;}
+
+
+/* Edit Profile */
+.userPic{width:60px; height:60px; background-size:60px;}
+.myProfileN h1{font-size:22px;}
+a.editProfile{margin-left:10px;}
+.leftLinks{width:100%; padding-bottom:10px;}
+.mBodyRight{width:100%; margin-bottom:30px;}
+.leftLinks ul li{font-size:14px;}
+.leftLinks ul li a{padding:0 14px; line-height:34px;}
+.editSpace{padding:20px 26px;}
+.editBlock{padding:30px 20px 20px;}
+.editBlock h3{font-size:20px; line-height:28px;}
+
+/* My Profile */
+.mBodyLeft{width:100%; padding-bottom:30px;}
+.mFPic{width:17.6%; margin-right:3%; margin-bottom:3%;}
+.mFPic:nth-child(2n), .mFPic:nth-child(3n){margin-right:3%;}
+.mFPic:nth-child(5n){margin-right:0px;}
+.viewComment li{font-size:15px;}
+.viewComment li i{margin-right:10px;}
+.mFriends h3{font-size:18px;}
+.mPComments{margin-bottom:30px;}
+.uFVideo a, .uFGallery a, .uEVerify p{font-size:14px;}
+.pInfoA ul li span{width:130px;}
+.privatePro{margin-left: 15px;}
+
+
+/* Privacy */
+.reqestOp{padding-top:0px;}
+.reqestOp label{padding-left:24px; font-size:13px; margin-bottom:3px;}
+.reqestOp label i{width:18px; height:18px; top:1px;}
+
+/* Delete Account */
+.deleteASpace{padding:20px 26px;}
+.deleteAPopB{padding:30px 20px 20px;}
+.yMind{font-size:16px;}
+.dCredit{font-size:36px; line-height:36px;}
+.inAcc{font-size:15px;}
+.changeM{font-size:14px; height:34px; margin-bottom:6px;}
+.deleteAccB{font-size:14px; height:34px;}
+.twoBtnsF{padding-top:14px;}
+.deleteAPopB .twoBtns{padding-top:12px;}
+.deleteAPopB h3{font-size:20px; line-height:28px;}
+
+/* My Credits */
+.yourCredit{padding-bottom:15px; padding-top:8px;}
+.renewMM{line-height:30px; padding:0 18px; letter-spacing:normal;}
+.eCreditBox ul li, .totalL{font-size:18px;}
+
+/* Buy Credits */
+.joinArea{width:100%;}
+.buyCredit{padding:30px 0;}
+.bestDeal{font-size:11px; position:absolute; right:2px; background-color:#e2007a; top:-7px; margin-top:0px; line-height:20px;}
+.payment label span{font-size:18px;}
+.getAccess{padding-bottom:30px;}
+.getAccess input{font-size:20px; height:46px; padding:0 24px;}
+body .backgroundTransition .image-bottom, body .backgroundTransition .image-top{background-position:60% top;}
+.payment{display:block; padding:26px 14px 0 14px;}
+.payment label{margin:0px; padding-right:0px; margin-bottom:32px; justify-content:normal;}
+.payment label:last-child{margin-bottom:0px;}
+.registerd{font-size:13px;}
+.pmethods{margin-bottom:14px; margin-left:14px;}
+.joinArea h2{margin-bottom:6px;}
+.memberShipO a{padding-left:14px;}
+
+/* Upload Video */
+.subHeader h2{font-size:20px;}
+.uploadArea{padding-top:15px;}
+.blueBox{padding:10px; border-radius:6px; -webkit-border-radius:6px;}
+.blueBox h3{font-size:20px;}
+.uploadI{font-size:22px; padding-top:44px; background-size:42px; padding-bottom:18px;}
+.uploadVG{font-size:13px; line-height:32px;}
+.supported{padding-top:6px;}
+.uploadHm{font-size:12px; line-height:18px;}
+.time{width:26px; height:26px; background-size:26px;}
+.hd{height:26px;}
+.videoF{padding-left:15px; padding-right:15px;}
+.bigVBox h2{font-size:15px;}
+.chooseCate ul{column-count:2;}
+.searchCate, .setting{width:100%;}
+.chooseP p{padding-top:3px; font-size:13px;}
+.makeM, .partTwo{padding-bottom:30px;}
+
+/* Upload Gallery */
+.galleryPart{padding-bottom:30px;}
+
+/* Contact */
+.contactBox{padding:15px;}
+.note{padding:8px 12px; font-size:13px; margin-bottom:3%;}
+.leftCForm{width:100%;}
+.rightCForm{width:100%;}
+.sendReview{font-size:14px; min-width:inherit; padding:0 22px;}
+.contactBox h2{padding-bottom:5px;}
+
+/* My Friends */
+.friendPic{width:50px;}
+.frindInfo{margin-left:12px; width:calc(100% - 62px);}
+.frindInfo p span{padding:0 6px;}
+.frindInfo h4{font-size:16px;}
+
+/* My Videos */
+.myVideoPic{width:220px;}
+.myVideoInfo{width:calc(100% - 235px);}
+.myvideo{margin-bottom:15px;}
+.deleteSpace{padding:20px 26px;}
+.deletePopB{padding:34px 15px 30px; /*width:430px;*/}
+.deletePopB h3{font-size:22px;}
+.creditD{padding-top:3px;}
+.deletePopB .twoBtns{padding-top:20px;}
+
+/* My Galleries */
+.myGallery{width:100%; margin-right:0px; margin-bottom:15px;}
+.galleryStatus a.onlineV{clear:none;}
+.galleryStatus .viewMV{margin-right:15px;}
+.mygallerInfo .privacySelect{clear:none;}
+.privacy label, .allowDownload label{margin-right:10px; padding-bottom:0px; line-height:24px;}
+.mygallerInfo .added{padding-top:2px; padding-bottom:5px;}
+
+/* Warning Popup */
+.warningSpace{padding:20px 26px;}
+.warningLogo{width:200px; padding-bottom:14px;}
+.warningPopB h1{font-size:18px; padding-bottom:2px;}
+.wtwoBtn{padding-top:6px;}
+.warningPopB{padding:20px 18px;}
+
+/* New Popup */
+.infoSpace{padding:20px 26px;}
+.infoPopB h3{font-size:20px; line-height:28px; padding-bottom:4px;}
+.infoPopB{padding:30px 20px 20px;}
+.infoPopB p br{display:none;}
+.infoPopB ul li{font-size:13px; line-height:20px;}
+.infoPopB p{padding-bottom:6px; font-size:13px; line-height:18px;}
+
+.memberLogin{font-size:14px; line-height:26px; padding:0 16px;}
+.createAcc{font-size:14px; padding:0 18px; line-height:30px;}
+}
+@media only screen and (max-width:479px){
+.centerwrap{width:94%;}
+.iVideo{width:100%; margin-right:0px; margin-bottom:10px;}
+.caption h3{font-size:18px; line-height:22px;}
+.caption p{font-size:14px;}
+.iGalleryPic, .iVideoPic{margin-bottom:7px;}
+.iVideo p{width:calc(100% - 60px);}
+.iVideo .videoView{float:right; margin-top:0px;}
+.joinMBtn a{padding:10px 10px 12px; font-size:18px; line-height:20px;}
+.iGallery{width:48%; margin-right:4%; margin-bottom:4%;}
+.iGallery:nth-child(3n), .iGallery:nth-child(4n), .iGallery:nth-child(5n), .iGallery:nth-child(7n), .iGallery:nth-child(8n){margin-right:4%;}
+.iGallery:nth-child(2n){margin-right:0px;}
+.social a{margin:0 2px;}
+.flinks p a{display:inline-block;}
+.searchBlock{margin-bottom:10px; width:300px;}
+.indexASpace{padding:14px 16px;}
+.indexAPopB{padding:30px 14px 14px;}
+.indexAPopB h3{font-size:14px; line-height:20px; padding-bottom:8px;}
+.sendEmail{font-size:13px; height:32px; padding:0 18px;}
+.countries .selectric-items{left:3%; top:100%; right:auto; width:94%!important;}
+.countries .selectric-wrapper{position:inherit;}
+
+/* Videos */
+.videoText{width:100%; margin-right:0px; height:auto; padding-bottom:15px;}
+.vText h2{font-size:28px; line-height:32px;}
+.vText h3{font-size:15px;}
+.vText p{font-size:15px;}
+.bVideoText{width:100%; height:auto; padding-bottom:15px;}
+#bestVideos{width:100%;}
+#bestVideos .owl-buttons{top:-78px; left:0px; right:auto;}
+.bVideoText .vText h2{padding-bottom:50px;}
+#bestVideos .item{margin-right:0px;}
+
+/* All Videos */
+.bodyArea{padding-top:15px;}
+.categories{width:145px;}
+.sortby{width:145px;}
+.bodyArea .title h2{font-size:22px; line-height:normal;}
+.pagination li{margin:0 3px;}
+.pagination a{min-width:32px; font-size:14px; line-height:30px;}
+.pagination a.prevA, .pagination a.nextA{width:32px; height:32px;}
+a.prevA i, a.nextA i{background-size:8px;}
+.pagination{padding-top:10px; padding-bottom:30px;}
+
+/* Galleries */
+.allGalleries .iGallery:nth-child(49), .allGalleries .iGallery:nth-child(50){display:block;}
+
+/* Author */
+.midwrap{width:94%;}
+.userPic{width:60px; height:60px; background-size:60px;}
+.userND{padding-left:10px; width:calc(100% - 60px);}
+.days{padding-bottom:0px;}
+.userND h1{font-size:28px;}
+.userContent h3{font-size:20px;}
+.userContent p{font-size:13px; line-height:20px;}
+.aboutInfo li{font-size:13px; line-height:20px;}
+
+/* Login */
+.loginBox{margin:80px auto 120px; width:98%; padding:15px;}
+.textbox{height:44px; padding:0 16px;}
+.textblock{margin-bottom:14px;}
+.remember label i{margin-right:6px;}
+.subBtn{padding-top:12px; padding-bottom:7px;}
+.submitF{font-size:20px; height:46px;}
+.loginBox h1{font-size:20px; margin-bottom:15px;}
+.signNow{font-size:13px;}
+.success-message{padding:7px 25px 7px 12px; font-size:13px; line-height:18px; position:relative;}
+.alert-message{padding:7px 25px 7px 12px; font-size:13px; line-height:18px; position:relative;}
+.alert-message a, .success-message a{position:absolute; right:0px; top:0px; line-height:32px;}
+
+/* Register */
+.joinFree h2{font-size:20px; line-height:normal;}
+.joinFree h2 i{display:block; margin:5px 0px;}
+.joinFree p{line-height:22px;}
+.joinFree h3{font-size:24px;}
+.registerBox{padding:15px;}
+.textblock span{margin-top:2px;}
+.countriesR .selectric{padding-left:16px;}
+.countriesR .selectric .label{line-height:42px;}
+.joinFree ul li{background-position:left 5px; font-size:14px;}
+
+/* Gallery Inner */
+.grid-item{width:50%;}
+.galleryInner h1{font-size:18px;}
+.galleryInner h1 span{font-size:14px;}
+.likeDislike{/*margin-left:0px; padding-top:10px; clear:left;*/ margin-left:6px;}
+.share, .download, a.addUserI{margin-right:6px;}
+.relatedG .iGallery:nth-child(16){display:block;}
+.likeDislike p{font-size:13px;}
+
+
+/* Video Inner */
+.memberAlert p{font-size:12px; padding-bottom:3px; padding-top:3px;}
+.memberAlert, .memberOnly{width:280px;}
+.memberAlert h3, .memberOnly h3{font-size:14px; line-height:16px;}
+.mBtn{font-size:10px; line-height:26px; padding:0 12px;}
+.continue{padding-top:3px; font-size:12px;}
+.videoTitle{font-size:16px;}
+
+.videoMidwrap{width:94%;}
+.rVideos .iVideo{width:100%;}
+.videoRight .title h2{line-height:30px;}
+.rBanner{width:100%; margin-right:0px;}
+.rBanner img{width:100%;}
+
+/* Edit Profile */
+.myProfileN{padding-left:12px;}
+a.editProfile{margin-left:0px; clear:left; line-height:26px; padding:0 10px; border-width:1px; font-size:12px;}
+.myProfileN h1{line-height:normal; margin-bottom:4px; width: 100%;}
+.logo{width:160px; padding:13px 0;}
+.menu{margin-left:6px; padding-top:8px;}
+.notification{margin-left:4px;}
+.headerRight{padding-top:8px;}
+.bigBox{padding:12px;}
+.kronos-outer .kronos-inner{width:276px;}
+.editSpace{padding:12px 16px;}
+.editBlock{padding:30px 15px 15px;}
+.editBlock h3{font-size:18px; line-height:24px;}
+
+/* My Profile */
+.mFPic{width:22.75%;}
+.mFPic:nth-child(5n){margin-right:3%;}
+.mFPic:nth-child(4n){margin-right:0px;}
+.mFPic:nth-child(9), .mFPic:nth-child(10){display:none;}
+.uFVideo, .uFGallery, .uEVerify{padding-left:10px; line-height:18px; padding-bottom:7px; padding-top:7px;}
+.pInfoA ul li span{width:100px;}
+.nCMText{font-size:13px; padding-bottom:7px;}
+.cUComment textarea{font-size:13px;}
+.leaveComment{padding:0 10px; font-size:12px; height:26px;}
+.cancleBtn{padding:0 10px; font-size:12px; line-height:22px; margin-bottom:5px;}
+.myProfileN{display: flex; align-items:flex-start; flex-wrap:wrap;}
+.privatePro{margin-left: 0; height: 28px; margin-right: 8px;}
+
+/* Notification Start */
+.notificationArea{width:300px; right:-44px; min-height:280px; top:47px;}
+.notificationArea:before{right:55px;}
+.notiTitle{padding:10px;}
+.notiTitle h3{font-size:18px;}
+a.clearAll{margin-top:0px; margin-top:2px;}
+.notiContent li{padding:6px 40px 6px 10px;}
+/* Notification Close */
+.nCDate, .ncReply{margin-right:15px;}
+.ncReplies{margin-left:0px;}
+
+/* Privacy */
+/* Delete Account */
+.deleteASpace{padding:12px 16px;}
+.deleteAPopB{padding:30px 15px 15px;}
+.deleteAPopB h3{font-size:18px; line-height:24px;}
+.deleteAPopB:before{opacity:0.05; display:none;}
+.deleteAPopB:after{opacity:0.4; display:none;}
+.changeM{font-size:13px; padding:8px 10px; height:auto;}
+.deleteAccB{font-size:13px; padding:8px 10px; height:auto;}
+.saveBtn{font-size:14px; height:32px; min-width:80px;}
+.cancel{font-size:14px; height:32px; min-width:80px;}
+.dCredit{font-size:30px; line-height:32px;}
+
+/* My Credits */
+.earnCredits p{font-size:14px; line-height:20px;}
+.eCreditBox ul li, .totalL{font-size:16px; padding-left:10px; padding-right:10px;}
+.totalR{padding-left:10px;}
+
+/* Buy Credits */
+.buyCredit{padding:60px 0 30px;}
+.currency{position:absolute; right:-44px; bottom:-58px; margin-left:0px;}
+.joinArea{padding-top:10px;}
+.memberShipO{margin-left:10px; margin-right:10px;}
+.joinArea h2{font-size:15px; line-height:34px; padding-left:10px; padding-right:10px; margin-bottom:10px;}
+.memberShipO label{padding-top:14px;}
+.memberShipO label i{width:22px; height:22px; margin:auto; display:block; float:none;}
+.memberShipO label input[type="radio"]:checked + i:after{width:10px; height:10px;}
+.memberShipT{float:none; display:block; text-align:center; padding-left:10px; padding-right:10px;}
+.creditA{display:block; width:100%; float:none; min-width:inherit; height:auto; padding-top:8px; padding-bottom:10px;}
+.memberShipT > span{font-size:14px; line-height:18px;}
+.creditA span{display:inline-block; vertical-align:baseline; margin-left:10px;}
+.bestDeal{right:-2px; top:6px;}
+.useCredit{margin-left:10px; margin-right:10px; margin-bottom:10px; padding:8px 14px 8px;}
+.payment{padding:22px 10px 0px 10px;}
+.payment label{margin:0 0 30px 0;}
+.getAccess{padding-top:15px; padding-bottom:20px;}
+body .backgroundTransition .image-bottom, body .backgroundTransition .image-top{background-position:70% top;}
+.responsiveSearch, .menu nav{top:55px;}
+.memberShipO a{padding-left:0px;}
+.memberShipT strong{display:inline;}
+.registerd{padding-left:10px; padding-right:10px;}
+
+/* Upload Video */
+.pUnder{font-size:12px;}
+.uploadContent{padding:15px;}
+.uploadI{font-size:18px; padding-top:38px; background-size:36px;}
+.videoFeatures{display:block;}
+.videoF{width:100%; border-right:0px; border-bottom:1px solid #42454e; padding-left:0px; padding-right:0px; padding-top:15px;}
+.videoF p{font-size:15px; padding-bottom:15px;}
+.bigVBox{padding:12px;}
+.videoFrame{background-size:42px; padding-left:52px;}
+.vFileName{font-size:16px;}
+.deleteV{line-height:30px; font-size:13px;}
+.bigVBox h2{padding-bottom:5px;}
+.chooseP{padding-bottom:15px;}
+.lastInfo{padding-top:18px;}
+
+/* Upload Gallery */
+.uploadHPic{width:30.66%; margin-right:4%; margin-bottom:4%;} 
+.uploadHPic:nth-child(3n){margin-right:0px;}
+
+/* Contact */
+.contactBox{width:96%;}
+.contactArea{padding:30px 0;}
+.contactForm label{font-size:14px; padding-bottom:3px;}
+.profileBox{height:38px;}
+.sendBtn{padding-top:4px;}
+
+/* My Friends */
+.friendBlock{width:100%; margin-bottom:14px; margin-right:0px;}
+.friendBlock:nth-child(3n){margin-right:0px;}
+.frindInfo h4{font-size:18px;}
+
+/* My Videos */
+.innerMenu li{font-size:12px;}
+.innerMenu li a{line-height:30px; padding:0 12px;}
+.innerMenu{overflow:auto;}
+.innerMenu ul{-webkit-overflow-scrolling:touch; overflow:auto; width:430px;}
+.myVideoPic{width:100%;}
+.myVideoPic img{width:100%;}
+.myVideoPic video{width:100%;}
+.myVideoInfo{margin-left:0px; padding-top:10px; width:100%;}
+.privacySelect{width:130px;}
+.privacy, .allowDownload{max-width:190px;}
+.deleteSpace{padding:20px 15px;}
+.deletePopB{width:100%; margin-bottom:20px;}
+.videoBPic{width:100%;}
+.videoBInfo{margin-left:0px; margin-top:10px; width:100%;}
+.videoBox{display:block;}
+.videoBInfo .viewMV{position:relative; margin-top:6px;}
+.dOptions label span{font-size:13px; padding-top:3px; line-height:18px;}
+.privacyS label{font-size:16px;}
+.privacyS .selectric .label{font-size:14px; line-height:38px;}
+.privacyS .selectric{padding-left:14px;}
+.privacyS .selectric .button{height:38px; width:25px;}
+
+/* My Galleries */
+.galleryStatus a.onlineV{clear:left;}
+.mygallerInfo .added{padding-top:4px; padding-bottom:0px;}
+.mygallerInfo h3{padding-bottom:3px;}
+.myPicsA{padding-right:7px; background-position:8px center; background-size:12px; left:3px; top:3px; line-height:26px; padding-left:27px;}
+.edit{left:3px; bottom:3px;}
+.deleteI{right:3px; bottom:3px;}
+.mygalleryPic{width:100px;}
+.mygallerInfo{width:calc(100% - 110px);}
+.mygallerInfo h3{font-size:16px; padding-bottom:1px;}
+.galleryStatus .viewMV{margin-right:0px; margin-bottom:3px;}
+.mygallerInfo .added{padding-bottom:5px;}
+.galleryBPic{width:220px;}
+.galleryBInfo{margin-top:10px; margin-left:0px; width:100%;}
+.galleryBInfo h4{padding-bottom:5px;}
+.galleryBInfo .viewMV{position:relative; margin-top:6px;}
+.noContent .joinMBtn a{min-width:inherit; padding:8px 14px 10px;}
+.noContent .joinMBtn a span{font-size:14px; line-height:20px;}
+
+
+/* Warning Popup */
+.warningLogo{width:180px;}
+.warningPopB p{line-height:18px; font-size:13px;}
+.warningPopB{padding:20px 10px 15px;}
+.enter{font-size:13px; line-height:32px; padding:0 16px; margin:0 3px 5px}
+.exit{font-size:13px; line-height:32px; padding:0 16px; margin:0 3px;}
+.wtwoBtn{padding-top:8px;}
+.warningSpace{padding:20px 15px;}
+
+/* New Popup */
+.infoSpace{padding:14px 16px;}
+.infoPopB h3{font-size:17px; line-height:20px;}
+.infoPopB{padding:30px 10px 10px;}
+.infoPopB ul li{font-size:12px; line-height:18px;}
+.vidGallery a{font-size:13px; line-height:32px; padding:0 14px; margin:0 3px;}
+.infoPopB hr{margin-top:12px; margin-bottom:6px;}
+.closePopup{width:32px; height:32px; background-size:12px;}
+
+/* Terms */
+h2.resp-accordion{padding:14px 15px;}
+.resp-tab-content{padding:12px 15px;}
+.textContent h2{font-size:20px;}
+.textContent > h2{font-size:16px;}
+.textContent p{line-height:20px;}
+.textContent h3{font-size:16px; padding-bottom:2px;}
+.textContent h4{font-size:15px; padding-bottom:2px;}
+.textContent ul li{line-height:20px; padding-left:14px; padding-bottom:14px;}
+.textContent ul{padding-left:16px;}
+}
